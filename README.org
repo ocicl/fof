@@ -1,0 +1,10 @@
+* fof
+
+File object finder Common Lisp library
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.com/ambrevar/fof.git   |
+| commit  | 77a98e4  |
+| systems | fof |
+|---------+-------------------------------------------|
+
