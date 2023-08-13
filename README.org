@@ -2,8 +2,10 @@
 
 File object finder Common Lisp library
 
-|---------+------------------------------------------|
-| source  | git:https://gitlab.com/ambrevar/fof.git  |
-| commit  | 522879e7da110ecf2e841998b197b34062c54b29 |
-| systems | fof                                      |
-|---------+------------------------------------------|
+
+|---------+-----------------------------------------|
+| source  | git:https://gitlab.com/ambrevar/fof.git |
+| commit  | 522879e                                 |
+| systems | fof                                     |
+|---------+-----------------------------------------|
+--|
